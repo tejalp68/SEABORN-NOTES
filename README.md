@@ -8,11 +8,10 @@ This repository contains my hands-on practice while learning **Seaborn**, a stat
 ## 📁 Repository Structure
 
 ```
-|
-|-- SEABORN.ipynb   # Jupyter Notebook with practice code
-|-- SEABORN.py      # Converted Python script version
-|-- README.md       # Project documentation
-
+│
+├── SEABORN.ipynb   # Jupyter Notebook with practice code
+├── SEABORN.py      # Converted Python script version
+└── README.md       # Project documentation
 ```
 
 ---
